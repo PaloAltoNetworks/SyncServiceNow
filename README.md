@@ -1,6 +1,6 @@
 
 ServiceNow Palo Alto Networks Sync
-===============================
+==================================
 
 This program is a proof of concept to demonstrate synchronization of assets and their
 attributes from ServiceNow into registered IP tags on a Palo Alto Networks
@@ -22,3 +22,8 @@ Dependencies
 * pan-python >= 0.6.0  https://github.com/kevinsteves/pan-python
 
 * pandevice >= 0.2.0  https://github.com/PaloAltoNetworks-BD/pandevice
+
+Contributors
+------------
+
+* Brian Torres-Gil <btorres-gil@paloaltonetworks.com>
